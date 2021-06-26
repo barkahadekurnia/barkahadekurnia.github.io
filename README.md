@@ -1,5 +1,5 @@
 # My Profile
-this is repo for barkahadekurnia.github.io page 
+this repo is for barkahadekurnia.github.io page 
 
 contains my resume
 
