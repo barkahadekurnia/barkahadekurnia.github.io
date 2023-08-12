@@ -1,15 +1,17 @@
-# My Profile
-this repo is for barkahadekurnia.github.io page 
+### Hi there my name is Barkah Ade Kurnia 👋
 
-contains my resume
+🔭 I’m currently working on ENTWO GROUP
 
-i made this with : 
-- HTML
-- CSS 
-- Javascript
+🌱 I’m currently learning Mobile Developer Apps
 
+📫 How to reach me: Whatsapps: 0895392220676
 
-
-
-
-
+⚡ Skills: 
+  - HTML + CSS
+  - React
+  - NodeJS
+  - Ionic
+  - AngularTS
+  - PHP
+  - MySQL 
+  - PostgreSQL
